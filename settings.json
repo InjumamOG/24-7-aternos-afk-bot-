@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "InjumamCloudHosting",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
+        "Subscribe to injumam_gaming!",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
