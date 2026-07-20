@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CastleSmpS1.aternos.me",
-    "port":61714,
+    "ip": "Injumam.aternos.me",
+    "port":58266,
     "version": "1.20.1",
     "try-creative": false
   },
