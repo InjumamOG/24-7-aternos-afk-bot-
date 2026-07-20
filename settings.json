@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Injumam.aternos.me",
-    "port"58266,
+    "port":58266,
     "version": "1.20.1",
     "try-creative": false
   },
